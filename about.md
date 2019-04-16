@@ -12,14 +12,13 @@ title: About Soobin
 	<h2>Professional Knowledge</h2>
 	<ul>
 		<li>C Language</li>
-		<li>JAVA, JSP, Servlet</li>
-		<li>PHP</li>
-		<li>HTML, CSS, JavaScript, jQuery</li>
-		<li>Node.js</li>
-		<li>Python</li>
-		<li>RDBMS - MySQL, Oracle</li>
-		<li>Data structures and algorithms</li>
-		<li>Software Engineering</li>
-		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+			<li>JAVA, JSP, Servlet</li>
+			<li>PHP</li>
+			<li>HTML, CSS, JavaScript, jQuery</li>
+			<li>Node.js</li>
+			<li>Python</li>
+			<li>RDBMS - MySQL, Oracle</li>
+			<li>Data structures and algorithms</li>
+			<li>Software Engineering</li>
   </ul>
 </div>
