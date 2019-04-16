@@ -2,19 +2,22 @@
 layout: post
 title:  "Portfolio"
 date:   2019-04-16
-description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개발
+description: The Design and Implementation of the subjects Management system for Medical Inspections
+image: flow.jpg
 ---
 
 <p class="intro">비콘을 이용한 건강검진 관리 시스템의 설계와 개발</p>
-개발기간 : 2018.03 ~ 2018.06 (약 4개월) 
+개발기간 : 2018.03 ~ 2018.06 (약 3개월) 
 
 ## 프로젝트 개요
- 프로젝트 개요 들어가고
+
+Usually, people do the medical inspection periodically to check his health condition. However, it is for a subject to submit in convenient a request sheet to each medical inspection room since the nurse in the inspection room does not know the subject is arrival. In this paper, we design an implement the subjects management system for medical inspections. When the subject is in the predefined radius of the inspection room the beacon of the room identifies the subject and insorts the subject to the waiting list.
 
 ## 담당업무
-<p> 프로젝트 개요 들어가고 </p>
+<p> 프로젝트 설계 및 개발 </p>
 
 ## 프로젝트 설계
+
 <p> 프로젝트 설계내용 + 이미지 </p>
 
 ## 개발결과 
