@@ -55,9 +55,4 @@ description: 1996.12.28, BUSAN, Dongseo University, Computer Enginnering, Web De
 * 2017 University Student Product Innovation Ideas Contest, Entry into the Main Line
 * 2017 Global SW Competition, Participation
 
-
-<figure>
-    <img src="{{ '/assets/img/graduate1.jpg' | prepend: site.baseurl }}" alt=""> 
-    <figcaption>졸업증명서</figcaption>
-</figure>
-
+<br><br><br><br>
