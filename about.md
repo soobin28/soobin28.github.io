@@ -5,7 +5,7 @@ title: About Soobin
 
 <div class="post">
 	<h1 class="pageTitle">About Soobin</h1>
-	<img src="{{ '/assets/img/soobin.jpg' | prepend: site.baseurl }}" style="text-align:center;" alt="">
+	<img src="{{ '/assets/img/soobin1.jpg' | prepend: site.baseurl }}" style="text-align: center;" alt="">
 	<p class="intro">Hello~ I'm Soobin ^^ I'm from Korea. My university is <a href="http://www.dongseo.ac.kr/">Dongseo University</a> 나이는 24세 (만 22세) 입니다. 제 전공은 컴퓨터공학입니다.</p>
 	<p>안녕안뇽</p>
 	<h2>전문 지식</h2>
