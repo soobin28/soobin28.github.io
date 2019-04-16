@@ -1,14 +1,14 @@
 ---
 layout: default
-title: About Long Haul
+title: About Soobin
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<h1 class="pageTitle">About Soobin</h1>
+	<img src="{{ '/assets/img/soobin.jpg' | prepend: site.baseurl }}" alt="">
+	<p class="intro">Hello~ I'm Soobin ^^ I'm from Korea. My university is <a href="http://www.dongseo.ac.kr/">Dongseo University</a> 나이는 24세 (만 22세) 입니다. 제 전공은 컴퓨터공학입니다.</p>
+	<p>안녕안뇽</p>
+	<h2>전문 지식</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
   		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
