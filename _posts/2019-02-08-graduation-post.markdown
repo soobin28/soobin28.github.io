@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Graduation"
-date:  2019-02-08
+date:   2019-02-08
 description: 졸업식 날
 ---
 
