@@ -6,3 +6,4 @@ description: 나는 박수빈 , 1996년 12월 28일 출생, 부산 남구 대연
 ---
 
 <p class="intro"><span class="dropcap">안</span>녕하세요 박수빈입니다.</p>
+
