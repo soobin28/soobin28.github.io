@@ -1,27 +1,32 @@
 ---
 layout: post
-title:  "박수빈을 소개합니다"
+title:  "Portfolio"
 date:   2019-04-16
-description: 저는 박수빈이고,,, 
+description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개발
 ---
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+<p class="intro"><span class="dropcap">졸업작품</span>으로 개발을 한 프로젝트 입니다.</p>
 
-# Heading 1
+ <blockquote> 개발기간 : 2018.03 ~ 2018.06 (약 4개월) </blockquote>
 
-## Heading 2
+# 프로젝트 개요
 
-### Heading 3
+## 프로젝트 개요
+ 프로젝트 개요 들어가고
 
-#### Heading 4
+ <blockquote> 프로젝트 개요 </blockquote>
 
-##### Heading 5
+## 담당업무
+<p> 프로젝트 개요 들어가고 </p>
 
-###### Heading 6
+p태그 안한거
 
-<blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
+## 프로젝트 설계
+<p> 프로젝트 설계내용 + 이미지 </p>
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+## 개발결과 
+<p> 개발결과 넣기 </p>
+
 
 ## Unordered List
 * List Item
@@ -44,13 +49,3 @@ Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur pu
   <dt>Milk</dt>
   <dd>White cold drink</dd>
 </dl>
-
-Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.
-
-Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
