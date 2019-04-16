@@ -5,10 +5,11 @@ title: About Soobin
 
 <div class="post">
 	<h1 class="pageTitle">About Soobin</h1>
-	<img src="{{ '/assets/img/soobin1.jpg' | prepend: site.baseurl }}" style="display:block; margin: auto;" alt="">
-	<p class="intro">Hello~ I'm Soobin ^^ I'm from Korea. My university is <a href="http://www.dongseo.ac.kr/">Dongseo University</a> 나이는 24세 (만 22세) 입니다. 제 전공은 컴퓨터공학입니다.</p>
-	<p>안녕안뇽</p>
-	<h2>전문 지식</h2>
+	<img src="{{ '/assets/img/soobin1.jpg' | prepend: site.baseurl }}" style="display:block; margin: auto; margin-bottom:30px;" alt="">
+	<p class="intro">My name is Park Soo Bin. I am 24 years old. My major is computer engineering. I graduated from <a href="http://www.dongseo.ac.kr/">Dongseo University</a> </p>
+	<p>I have a positive personality in everything and enjoy challenging new things. I am a person who does his best in a given job. And I have excellent communication with people.  </p>
+	<p>I live in Dae-yeon-Dong, Nam-gu, Busan. My hobbies are watching movies, going to a cafe, and drinking.</p>
+	<h2>Professional Knowledge</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
   		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
