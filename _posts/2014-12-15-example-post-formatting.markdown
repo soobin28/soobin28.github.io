@@ -16,26 +16,36 @@ Usually, people do the medical inspection periodically to check his health condi
 <p> 프로젝트 설계 및 개발 </p>
 
 ## 프로젝트 설계
+<figure>
+    <img src="/assets/img/conceptual.jpg" alt=""/>
+     <figcaption>System Conceptual Diagram</figcaption>
+</figure>
 
-<img src="/assets/img/conceptual.jpg"
-     alt=""
-     style="display: block; margin:auto;" />
-<p> System Conceptual Diagram</p>
+<p> System Conceptual Diagram (p태그안)</p>
 <br>
-<img src="/assets/img/flow.jpg"
-     alt=""
-     style="display: block; margin:auto;" />
-<p> System Flow Diagram</p>
+
+<figure>
+    <img src="/assets/img/flow.jpg" alt=""/>
+     <figcaption>System Flow Diagram</figcaption>
+</figure>
+
+<p> System Flow Diagram (p태그안)</p>
 <br>
-<img src="/assets/img/class.jpg"
-     alt=""
-     style="display: block; margin:auto;" />
-<p> Class Diagram</p>
+
+<figure>
+    <img src="/assets/img/class.jpg" alt=""/>
+     <figcaption>Class Diagram</figcaption>
+</figure>
+
+<p> Class Diagram (p태그안)</p>
 <br>
-<img src="/assets/img/er.jpg"
-     alt=""
-     style="display: block; margin:auto;" />
-<p>E-R Diagram</p>
+
+<figure>
+    <img src="/assets/img/er.jpg" alt=""/>
+     <figcaption>E-R Diagram</figcaption>
+</figure>
+
+<p>E-R Diagram (p태그안)</p>
 
 ## 개발결과 
 <p> 개발결과 </p>
