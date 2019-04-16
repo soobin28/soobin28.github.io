@@ -8,7 +8,7 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 <p class="intro"><span class="dropcap">졸</span>업작품으로 개발을 한 프로젝트 입니다.</p>
 
 
-
+<br><br><br><br>
 
 * 개발기간 : 2018.03 ~ 2018.06 (약 4개월) 
 
