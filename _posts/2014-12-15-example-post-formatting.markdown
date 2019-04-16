@@ -3,7 +3,6 @@ layout: post
 title:  "Portfolio"
 date:   2019-04-16
 description: The Design and Implementation of the subjects Management system for Medical Inspections
-image: flow.jpg
 ---
 
 <p class="intro">비콘을 이용한 건강검진 관리 시스템의 설계와 개발</p>
@@ -18,8 +17,26 @@ Usually, people do the medical inspection periodically to check his health condi
 
 ## 프로젝트 설계
 
-<p> 프로젝트 설계내용 + 이미지 </p>
+<img src="/assets/img/conceptual.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+<p> System Conceptual Diagram</p>
+
+<img src="/assets/img/flow.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+<p> System Flow Diagram</p>
+
+<img src="/assets/img/class.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+<p> Class Diagram</p>
+
+<img src="/assets/img/er.jpg"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+<p>E-R Diagram</p>
 
 ## 개발결과 
-<p> 개발결과 넣기 </p>
+<p> 개발결과 </p>
 
