@@ -19,22 +19,22 @@ Usually, people do the medical inspection periodically to check his health condi
 
 <img src="/assets/img/conceptual.jpg"
      alt=""
-     style="float: left; margin-right: 10px;" />
+     style="display: block; margin:auto;" />
 <p> System Conceptual Diagram</p>
-
+<br>
 <img src="/assets/img/flow.jpg"
      alt=""
-     style="float: left; margin-right: 10px;" />
+     style="display: block; margin:auto;" />
 <p> System Flow Diagram</p>
-
+<br>
 <img src="/assets/img/class.jpg"
      alt=""
-     style="float: left; margin-right: 10px;" />
+     style="display: block; margin:auto;" />
 <p> Class Diagram</p>
-
+<br>
 <img src="/assets/img/er.jpg"
      alt=""
-     style="float: left; margin-right: 10px;" />
+     style="display: block; margin:auto;" />
 <p>E-R Diagram</p>
 
 ## 개발결과 
