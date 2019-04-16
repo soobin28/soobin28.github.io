@@ -5,7 +5,7 @@ date:   2019-04-16
 description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개발
 ---
 
-<p class="intro"><span class="dropcap">졸</span>업작품으로 개발을 한 프로젝트 입니다.</p>
+<p class="intro">비콘을 이용한 건강검진 관리 시스템의 설계와 개발</p>
 
 
 <br><br><br><br>
