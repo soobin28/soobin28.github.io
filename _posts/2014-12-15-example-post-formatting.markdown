@@ -20,25 +20,3 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 ## 개발결과 
 <p> 개발결과 넣기 </p>
 
-
-<!-- ## Unordered List
-* List Item
-* Longer List Item
-  * Nested List Item
-  * Nested Item
-* List Item
-
-## Ordered List
-1. List Item
-2. Longer List Item
-    1. Nested OL Item
-    2. Another Nested Item
-3. List Item
-
-## Definition List
-<dl>
-  <dt>Coffee</dt>
-  <dd>Black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>White cold drink</dd>
-</dl> -->
