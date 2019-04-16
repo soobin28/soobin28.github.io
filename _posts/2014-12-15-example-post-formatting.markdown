@@ -36,6 +36,18 @@ Usually, people do the medical inspection periodically to check his health condi
      <figcaption>E-R Diagram</figcaption>
 </figure>
 
+<figure>
+    <img src="/assets/img/er.jpg" alt=""/>
+     <figcaption>E-R Diagram</figcaption>
+</figure>
+
+
+<figure>
+    <img src="{{ '/assets/img/dog.jpg' | prepend: site.baseurl }}" alt=""> 
+    <figcaption>image Test</figcaption>
+</figure>
+
+
 ## 개발결과 
 <p> 개발결과 </p>
 

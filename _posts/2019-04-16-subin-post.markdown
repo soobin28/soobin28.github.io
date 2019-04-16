@@ -56,6 +56,12 @@ description: 1996.12.28, BUSAN, Dongseo University, Computer Enginnering, Web De
 * 2017 Global SW Competition, Participation
 
 
+<figure>
+    <img src="{{ '/assets/img/graduate.jpg' | prepend: site.baseurl }}" alt=""> 
+    <figcaption>졸업증명서</figcaption>
+</figure>
+
+
 
 
 방문자분들은 댓글에 방문소감을 남겨주세요 ~~
