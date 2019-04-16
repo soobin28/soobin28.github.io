@@ -21,31 +21,20 @@ Usually, people do the medical inspection periodically to check his health condi
      <figcaption>System Conceptual Diagram</figcaption>
 </figure>
 
-<p> System Conceptual Diagram (p태그안)</p>
-<br>
-
 <figure>
     <img src="/assets/img/flow.jpg" alt=""/>
      <figcaption>System Flow Diagram</figcaption>
 </figure>
-
-<p> System Flow Diagram (p태그안)</p>
-<br>
 
 <figure>
     <img src="/assets/img/class.jpg" alt=""/>
      <figcaption>Class Diagram</figcaption>
 </figure>
 
-<p> Class Diagram (p태그안)</p>
-<br>
-
 <figure>
     <img src="/assets/img/er.jpg" alt=""/>
      <figcaption>E-R Diagram</figcaption>
 </figure>
-
-<p>E-R Diagram (p태그안)</p>
 
 ## 개발결과 
 <p> 개발결과 </p>
