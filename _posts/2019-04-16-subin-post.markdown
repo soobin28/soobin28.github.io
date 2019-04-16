@@ -6,8 +6,9 @@ description: 1996.12.28, BUSAN, Dongseo University, Computer Enginnering, Web De
 ---
 
 <p class="intro"><span class="dropcap">안</span>녕하세요. 박수빈입니다</p>
+<br>
 
-# Introduce
+## Introduce
 
 * name : Park Soobin
 * age : 24
@@ -16,27 +17,27 @@ description: 1996.12.28, BUSAN, Dongseo University, Computer Enginnering, Web De
     * 2015.02. Munhyeon Girls' High School Graduation
 * residence : BUSAN
 
-# Laboratory Activity
+## Laboratory Activity
 
 * Dongseo University DN Laboratory (2015 ~ 2019)
 * Computer Engineering Department Tutor Activity (2017)
 * 창업동아리 활동
 
-# A Research Project
+## A Research Project
 
 * Client development using large-capacity DB: Class-celling, Industry-university cooperation project, ㈜ 큐넥스
 
-# A History of Education
+## A History of Education
 
 * Python programming completion, Samsung SDS Multicampers
 * 2017 Outstanding Tutor Overseas Training (Japan, Thailand)
 * Completion of data structure and algorithm curriculum
 
-# Receipt history of competition
+## Receipt history of competition
 
 * 2017 5th Annual College Student Digital Solutions Challenge, Winning the Promotional Award
 
-# Campus competition history
+## Campus competition history
 
 * 2015-2 Semester Dongseo University Development Contest, Encouragement Prize
 * 2016-1 Semester Dongseo University 1st Creative Idea Competition, Encouragement Prize
@@ -45,7 +46,7 @@ description: 1996.12.28, BUSAN, Dongseo University, Computer Enginnering, Web De
 * 2017 Awarded the Excellence Prize in the autonomous project for the realization of the dream of Dongseo University
 * 2017 Imagination Seed Competition, 2nd prize
 
-# History of participation in external competition
+## History of participation in external competition
 
 * 2017 5th College Student Digital Solution Challenge, Encouragement Award
 * 2017 Hyundai Motor Group Hacker Tone: Hacker Road, Entry into the Main Line
