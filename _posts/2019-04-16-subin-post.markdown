@@ -60,6 +60,20 @@ description: 1996.12.28, 부산, 동서대학교, 컴퓨터공학부, 웹 개발
 </figure>
 
 
+## 외부 공모전 참가 이력
+
+* 2017 제 5회 대학생 디지털 솔루션 챌린지, 장려상 수상
+* 현대자동차그룹 해커톤 : 해커로드, 본선진출 
+* 2017 Red Dot Design Award, 2017 IF Design Award, 작품 출품
+* 2018 Red Dot Design Award, 2018 IF Design Award, 작품 출품
+* 2017 대학생 제품 혁신 아이디어 경진대회, 본선진출
+* 2017 Global Startup Weekend 참가
+
+<figure>
+    <img src="/assets/img/global.jpg" alt=""/>
+     <figcaptio>2017 Global Startup Weekend 수료증</figcaption>
+</figure>
+
 ## 교내 공모전 수상이력
 
 * 2015-2학기 동서대학교 Development Contest, 장려상 수상
@@ -74,13 +88,13 @@ description: 1996.12.28, 부산, 동서대학교, 컴퓨터공학부, 웹 개발
     <tr>
         <td>
             <figure>
-                <img src="/assets/img/캡스톤최우수.jpg" alt=""/>
+                <img src="/assets/img/cap.jpg" alt=""/>
                 <figcaption>2018 캡스톤디자인 경진대회 최우수상</figcaption>
             </figure>
         </td>
         <td>
             <figure>
-                <img src="/assets/img/자율프로젝트.jpg" alt=""/>
+                <img src="/assets/img/freeProject.jpg" alt=""/>
                 <figcaption>자율프로젝트 우수상</figcaption>
             </figure>
         </td>
@@ -88,13 +102,13 @@ description: 1996.12.28, 부산, 동서대학교, 컴퓨터공학부, 웹 개발
     <tr>
         <td>
             <figure>
-                <img src="/assets/img/상상씨앗2등.jpg" alt=""/>
+                <img src="/assets/img/sang.jpg" alt=""/>
                 <figcaption>2017 상상씨앗 2등</figcaption>
             </figure>
         </td>
         <td>
             <figure>
-                <img src="/assets/img/DSU창업.jpg" alt=""/>
+                <img src="/assets/img/DSU.jpg" alt=""/>
                 <figcaptio>2016 DSU 창업아이디어 경진대회 최우수상</figcaption>
             </figure>
         </td>
@@ -102,18 +116,5 @@ description: 1996.12.28, 부산, 동서대학교, 컴퓨터공학부, 웹 개발
 </table>
 
 
-## 외부 공모전 참가 이력
-
-* 2017 제 5회 대학생 디지털 솔루션 챌린지, 장려상 수상
-* 현대자동차그룹 해커톤 : 해커로드, 본선진출 
-* 2017 Red Dot Design Award, 2017 IF Design Award, 작품 출품
-* 2018 Red Dot Design Award, 2018 IF Design Award, 작품 출품
-* 2017 대학생 제품 혁신 아이디어 경진대회, 본선진출
-* 2017 Global Startup Weekend 참가
-
-<figure>
-    <img src="/assets/img/global.jpg" alt=""/>
-     <figcaptio>2017 Global Startup Weekend 수료증</figcaption>
-</figure>
 
 <br><br><br><br>
