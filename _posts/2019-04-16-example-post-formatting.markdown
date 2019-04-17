@@ -56,12 +56,32 @@ description: The Design and Implementation of the subjects Management system for
 </table>
 
 
-
-
-
-
 ### 개발결과 
-<p> 개발결과 </p>
+
+<table frame=void>
+    <tr>
+        <td>
+            <figure>
+                <img src="/assets/img/App1.jpg" alt=""/>
+                <figcaption>건강검진자 App 화면</figcaption>
+            </figure>
+        </td>
+        <td>
+            <figure>
+                <img src="/assets/img/list.jpg" alt=""/>
+                <figcaption>건강검진 리스트 안내 화면</figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <figure>
+                <img src="/assets/img/watinglist.jpg" alt=""/>
+                <figcaption>건강검진 대기자화면</figcaption>
+            </figure>
+        </td>
+    </tr>
+</table>
 
 <br><br><br>
 
