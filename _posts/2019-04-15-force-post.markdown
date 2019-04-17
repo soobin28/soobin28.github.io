@@ -66,7 +66,7 @@ description: 외부공모전 및 교내공모전
         <td>
             <figure>
                 <img src="/assets/img/DSU.jpg" alt=""/>
-                <figcaptio>2016 DSU 창업아이디어 경진대회 최우수상</figcaption>
+                <figcaption>2016 DSU 창업아이디어 경진대회 최우수상</figcaption>
             </figure>
         </td>
     </tr>
