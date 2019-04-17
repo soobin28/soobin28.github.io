@@ -66,22 +66,36 @@ description: 1996.12.28, BUSAN, Dongseo University, Computer Enginnering, Web De
 * 2017 상상씨앗 공모전, 2등 수상
 * 2018 DSU LINC+ 캡스톤디자인 FAIR 캡스톤디자인 경진대회, 최우수상 수상
 
-<figure>
-    <img src="/assets/img/캡스톤최우수.jpg" alt=""/>
-     <figcaption>2018 캡스톤디자인 경진대회 최우수상</figcaption>
-</figure>
-<figure>
-    <img src="/assets/img/자율프로젝트.jpg" alt=""/>
-     <figcaption>자율프로젝트 우수상</figcaption>
-</figure>
-<figure>
-    <img src="/assets/img/상상씨앗2등.jpg" alt=""/>
-     <figcaption>2017 상상씨앗 2등</figcaption>
-</figure>
-<figure>
-    <img src="/assets/img/DSU창업.jpg" alt=""/>
-     <figcaptio>2016 DSU 창업아이디어 경진대회 최우수상</figcaption>
-</figure>
+<table>
+    <td>
+        <tr>
+            <figure>
+                <img src="/assets/img/캡스톤최우수.jpg" alt=""/>
+                <figcaption>2018 캡스톤디자인 경진대회 최우수상</figcaption>
+            </figure>
+        </tr>
+        <tr>
+            <figure>
+                <img src="/assets/img/자율프로젝트.jpg" alt=""/>
+                <figcaption>자율프로젝트 우수상</figcaption>
+            </figure>
+        </tr>
+    </td>
+    <td>
+        <tr>
+            <figure>
+                <img src="/assets/img/상상씨앗2등.jpg" alt=""/>
+                <figcaption>2017 상상씨앗 2등</figcaption>
+            </figure>
+        </tr>
+        <tr>
+            <figure>
+                <img src="/assets/img/DSU창업.jpg" alt=""/>
+                <figcaptio>2016 DSU 창업아이디어 경진대회 최우수상</figcaption>
+            </figure>
+        </tr>
+    </td>
+</table>
 
 
 ## 외부 공모전 참가 이력
