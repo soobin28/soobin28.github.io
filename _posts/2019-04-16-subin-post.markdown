@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Park Soo Bin"
+title:  "Introduce"
 date:   2019-04-16
-description: 1996.12.28, BUSAN, Dongseo University, Computer Enginnering, Web Developer
+description: 1996.12.28, 부산, 동서대학교, 컴퓨터공학부, 웹 개발자
 ---
 
 <p class="intro"><span class="dropcap">안</span>녕하세요. 박수빈입니다</p>
