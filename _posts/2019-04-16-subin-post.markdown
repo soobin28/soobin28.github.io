@@ -91,6 +91,11 @@ description: 1996.12.28, BUSAN, Dongseo University, Computer Enginnering, Web De
 * 2017 Red Dot Design Award, 2017 IF Design Award, 작품 출품
 * 2018 Red Dot Design Award, 2018 IF Design Award, 작품 출품
 * 2017 대학생 제품 혁신 아이디어 경진대회, 본선진출
-* 2017 글로벌 SW 공모전, 참여
+* 2017 Global Startup Weekend 참가
+
+<figure>
+    <img src="/assets/img/global.jpg" alt=""/>
+     <figcaptio>2017 Global Startup Weekend 수료증</figcaption>
+</figure>
 
 <br><br><br><br>
