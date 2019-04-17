@@ -5,9 +5,6 @@ date:   2019-04-16
 description: 1996.12.28, 부산, 동서대학교, 컴퓨터공학부, 웹 개발자
 ---
 
-<p class="intro"><span class="dropcap">안</span>녕하세요. 박수빈입니다</p>
-<br>
-
 ## 인적사항
 
 * 이름 : 박수빈
