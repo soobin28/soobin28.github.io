@@ -45,10 +45,14 @@ description: 1996.12.28, 부산, 동서대학교, 컴퓨터공학부, 웹 개발
      <figcaption>Python 수료증</figcaption>
 </figure>
 
+## 논문
+
+* 비콘을 활용한
 
 ## 외부 공모전 수상이력
 
 * 2017제 5회 대학생 디지털 솔루션 챌린지, 장려상 수상
+* 2018 KSCI 한국컴퓨터정보학회 우수논문상 수상
 
 <figure>
     <img src="/assets/img/Hack.jpg" alt=""/>
