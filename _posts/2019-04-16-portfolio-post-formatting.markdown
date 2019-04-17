@@ -2,7 +2,7 @@
 layout: post
 title:  "Portfolio"
 date:   2019-04-16
-description: The Design and Implementation of the subjects Management system for Medical Inspections
+description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개발
 ---
 
 <p class="intro">비콘을 이용한 건강검진 관리 시스템의 설계와 개발</p>
