@@ -28,7 +28,7 @@ description: 외부공모전 및 교내공모전
 
 <figure>
     <img src="/assets/img/global.jpg" alt=""/>
-     <figcaptio>2017 Global Startup Weekend 수료증</figcaption>
+     <figcaption>2017 Global Startup Weekend 수료증</figcaption>
 </figure>
 
 ## 교내 공모전 수상이력
