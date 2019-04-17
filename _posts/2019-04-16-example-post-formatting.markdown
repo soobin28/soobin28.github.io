@@ -57,7 +57,7 @@ description: The Design and Implementation of the subjects Management system for
 
 
 ### 개발결과 
-
+<br>
 <table>
     <tr>
         <td>
@@ -74,7 +74,7 @@ description: The Design and Implementation of the subjects Management system for
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2">
             <figure>
                 <img src="/assets/img/watinglist.jpg" alt=""/>
                 <figcaption>건강검진 대기자화면</figcaption>
