@@ -21,4 +21,6 @@ title: About Soobin
 			<li>Data structures and algorithms</li>
 			<li>Software Engineering</li>
   </ul>
+
+  <img src="assets/img/binii24_nametag.png">
 </div>
