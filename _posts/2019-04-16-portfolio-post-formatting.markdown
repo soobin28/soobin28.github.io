@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Portfolio"
+title:  "Project #2"
 date:   2019-04-16
 description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개발
 ---
@@ -21,7 +21,7 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 
 #### 개발환경
 
-* BE : Node.js Express 
+* BE : Node.js (Express)
 * FE : Html, CSS, JavaScript
 * App : Android Studio
 * DBMS : MySQL
@@ -34,14 +34,14 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
     <tr>
         <td>
             <figure>
-                <img src="/assets/img/conceptual.jpg" alt=""/>
-                <figcaption>System Conceptual Diagram</figcaption>
+                <img src="/assets/img/diagram.jpg" alt=""/>
+                <figcaption>시스템 모듈 구성도</figcaption>
             </figure>
         </td>
         <td>
             <figure>
-                <img src="/assets/img/flow.jpg" alt=""/>
-                <figcaption>System Flow Diagram</figcaption>
+                <img src="/assets/img/개념도.jpg" alt=""/>
+                <figcaption>시스템 개념도</figcaption>
             </figure>
         </td>
     </tr>
@@ -49,13 +49,13 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
         <td>
             <figure>
                 <img src="/assets/img/class.jpg" alt=""/>
-                <figcaption>Class Diagram</figcaption>
+                <figcaption>클래스다이어그램</figcaption>
             </figure>
         </td>
         <td>
             <figure>
-                <img src="/assets/img/er.jpg" alt=""/>
-                <figcaption>E-R Diagram</figcaption>
+                <img src="/assets/img/erd.jpg" alt=""/>
+                <figcaption>E-R 다이어그램</figcaption>
             </figure>
         </td>
     </tr>
@@ -65,26 +65,34 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 
 #### 개발결과 
 <br/>
+###### Web 
+
 <table>
     <tr>
         <td>
             <figure>
-                <img src="/assets/img/App1.JPG" alt=""/>
-                <figcaption>건강검진자 App 화면</figcaption>
+                <img src="/assets/img/watinglist.jpg" alt=""/>
+                <figcaption>건강검진 관리 홈화면 (img)</figcaption>
+            </figure>
+        </td>
+        <td>
+            <figure>
+                <img src="/assets/img/list.jpg" alt=""/>
+                <figcaption>건강검진 리스트 안내 화면(회원), </figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <figure>
+                <img src="/assets/img/watinglist.jpg" alt=""/>
+                <figcaption>건강검진 대기자화면</figcaption>
             </figure>
         </td>
         <td>
             <figure>
                 <img src="/assets/img/list.jpg" alt=""/>
                 <figcaption>건강검진 리스트 안내 화면</figcaption>
-            </figure>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            <figure>
-                <img src="/assets/img/watinglist.jpg" alt=""/>
-                <figcaption>건강검진 대기자화면</figcaption>
             </figure>
         </td>
     </tr>
