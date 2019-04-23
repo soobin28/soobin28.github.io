@@ -10,131 +10,32 @@ description: 홀로그램을 활용한 헬스케어 서비스
 
 #### 프로젝트 개요
 
+꾸준한 운동으로 인해 변화되어지는 모습을 데이터로 쌓고, 쌓아 놓은 데이터를 바탕으로 향후 달라질 모습을 예측하여 보여주는 프로그램을 개발
 
 <br/>
 
 #### 담당업무
 
-1. 요구사항에 따라 필요한 데이터를 찾아 쿼리 작성.
-2. 각 페이지 마다 필요한 데이터를 불러오기 위해 페이지에 해당되는 Service파일에서 Dao파일로 객체 전송
-3. Dao 파일에서 객체에 대한 데이터 코드를 작성하여 처리결과 객체를 Service 파일로 전송
-
+* 데이터베이스
+    * 체성분 측정 시 나오는 결과 데이터를 기반으로 데이터 저장
+    * 엑셀파일로 저장된 측정 값을 Json으로 변환 후, 파이어베이스 저장
+    * 데이터베이스(Firebase)와 Unity 연동
 
 <br/>
 
 #### 개발환경
-
-<table>
-    <tr>
-        <td>구분</td>
-        <td>버전</td>
-        <td>비고</td>
-    </tr>
-    <tr>
-        <td>JAVA</td>
-        <td>JDK1.8 이상</td>
-        <td>기본 JAVA Compiler 버전을 정의함.</td>
-    </tr>
-    <tr>
-        <td>Development Tool</td>
-        <td>Eclipse Neon 4.6x</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>형상관리</td>
-        <td>SVN</td>
-        <td>형상관리를 위한 도구로, SVN을 사용한다.</td>
-    </tr>
-    <tr>
-        <td>라이브러리 관리</td>
-        <td>Maven3.3.9</td>
-        <td>표준 라이브러리 관리를 위해 Maven3.3 이상 버전을 사용하도록 한다.</td>
-    </tr>
-    <tr>
-        <td>표준 Framework</td>
-        <td>eGovFramework3.5.1</td>
-        <td>전자 정부 표준 프레임워크 3.5.1 버전을 적용한다.
-        (주요 구성항목 : Spring Framework)</td>
-    </tr>
-    <tr>
-        <td>RDBMS</td>
-        <td>Oracle 11g</td>
-        <td>Database는 제안 DBMS인 Oracle 11g 버전을 적용한다.</td>
-    </tr>
-</table>
 
 
 <br/>
 
 #### 프로젝트 설계
 
-<table>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/diagram.jpg" alt=""/>
-                <figcaption>시스템 모듈 구성도</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/개념도.jpg" alt=""/>
-                <figcaption>시스템 개념도</figcaption>
-            </figure>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/class.jpg" alt=""/>
-                <figcaption>클래스다이어그램</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/erd.jpg" alt=""/>
-                <figcaption>E-R 다이어그램</figcaption>
-            </figure>
-        </td>
-    </tr>
-</table>
 
 <br/>
 
 #### 개발결과 
 <br/>
-###### Web 
 
-<table>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/년도.jpg" alt=""/>
-                <figcaption>년도-교수 별 개설 교과목 수강학생 학점 현황</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/학과.jpg" alt=""/>
-                <figcaption>학과(학부)별 학생 성적 그래프 </figcaption>
-            </figure>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/watinglist.jpg" alt=""/>
-                <figcaption>건강검진 대기자화면</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/list.jpg" alt=""/>
-                <figcaption>건강검진 리스트 안내 화면</figcaption>
-            </figure>
-        </td>
-    </tr>
-</table>
 
 <br/>
 

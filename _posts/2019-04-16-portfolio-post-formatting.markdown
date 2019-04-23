@@ -100,11 +100,54 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 
 <br/>
 
-어플에서는 현재 받아야 하는 검사에 대한 안내를 받는다. **검사 이름과 검사실의 위치, 예상 소요 시간** 등을 안내한다. 만약 핸드폰이 **비콘과 통신**을 할 경우, 사용자가 받으러 온 검사에 **대기 중인 사람의 수**를 보여주고 회원이 대기를 해야 하는 **대기 예상 시간**을 보여준다.
-
 <br/>
 
 웹페이지에서는 **각 사용자별로 안내**를 해준다. **회원**에게는 건강검진에 대한 정보와 예약을 할 수 있는 페이지를 제공한다. **의사**로 로그인을 할 경우에는 본인이 담당하고있는 검사들의 내용을 보여주고, 현재 진행중인 검사에 대한 대기자 리스트와 검사완료 처리를 할 수 있는 기능이 제공된다. **관리자**에게는 회원과 의사에게 보여지는 내용에 대한 것들을 관리한다. 
+
+###### App
+
+<table>
+    <tr>
+        <td>
+            <figure>
+                <img src="/assets/img/watinglist.jpg" alt=""/>
+                <figcaption>건강검진 관리 홈화면 (img)</figcaption>
+            </figure>
+        </td>
+        <td>
+            <figure>
+                <img src="/assets/img/list.jpg" alt=""/>
+                <figcaption>건강검진 리스트 안내 화면(회원), </figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <figure>
+                <img src="/assets/img/watinglist.jpg" alt=""/>
+                <figcaption>건강검진 대기자화면</figcaption>
+            </figure>
+        </td>
+        <td>
+            <figure>
+                <img src="/assets/img/list.jpg" alt=""/>
+                <figcaption>건강검진 리스트 안내 화면</figcaption>
+            </figure>
+        </td>
+    </tr>
+</table>
+
+어플에서는 현재 받아야 하는 검사에 대한 안내를 받는다. **검사 이름과 검사실의 위치, 예상 소요 시간** 등을 안내한다. 만약 핸드폰이 **비콘과 통신**을 할 경우, 사용자가 받으러 온 검사에 **대기 중인 사람의 수**를 보여주고 회원이 대기를 해야 하는 **대기 예상 시간**을 보여준다.
+
+
+### 논문
+
+* 2018년도 한국컴퓨터정보학회 하계학술대회 구술발표 참여, 우수논문상 수상
+
+ <figure>
+    <img src="/assets/img/ksci.jpg" alt=""/>
+    <figcaption>KSCI 우수논문상</figcaption>
+</figure> 
 
 <br/><br/><br/>
 

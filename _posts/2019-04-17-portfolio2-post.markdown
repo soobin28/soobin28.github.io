@@ -67,39 +67,6 @@ description: 대용량 DB를 이용한 클라이언트 개발
 
 <br/>
 
-#### 프로젝트 설계
-
-<table>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/diagram.jpg" alt=""/>
-                <figcaption>시스템 모듈 구성도</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/개념도.jpg" alt=""/>
-                <figcaption>시스템 개념도</figcaption>
-            </figure>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/class.jpg" alt=""/>
-                <figcaption>클래스다이어그램</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/erd.jpg" alt=""/>
-                <figcaption>E-R 다이어그램</figcaption>
-            </figure>
-        </td>
-    </tr>
-</table>
-
 <br/>
 
 #### 개발결과 
@@ -118,20 +85,6 @@ description: 대용량 DB를 이용한 클라이언트 개발
             <figure>
                 <img src="/assets/img/학과.jpg" alt=""/>
                 <figcaption>학과(학부)별 학생 성적 그래프 </figcaption>
-            </figure>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/watinglist.jpg" alt=""/>
-                <figcaption>건강검진 대기자화면</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/list.jpg" alt=""/>
-                <figcaption>건강검진 리스트 안내 화면</figcaption>
             </figure>
         </td>
     </tr>
