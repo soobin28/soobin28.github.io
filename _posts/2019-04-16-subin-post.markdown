@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduce"
-date:   2019-04-16
+date:   2019-04-23
 description: 1996.12.28, 부산, 동서대학교, 컴퓨터공학부, 웹 개발자
 ---
 

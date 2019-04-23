@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Project #2"
-date:   2019-04-16
+title:  "Project #3"
+date:   2019-04-17
 description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개발
 ---
 
