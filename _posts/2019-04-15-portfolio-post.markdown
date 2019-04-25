@@ -43,7 +43,7 @@ description: 교내 물건 경매∙공유 시스템
 </figure>
  
 * 각 시스템의 기능의 단위별로 구성도 제작<br/>
-<a href="/asset/pdf/데이터베이스설계_시스템요구사항.pdf" target="_blank">시스템 요구사항 분석서</a>
+<a href="/assets/pdf/데이터베이스설계_시스템요구사항.pdf" target="_blank">시스템 요구사항 분석서</a>
 
  <figure>
     <img src="/assets/img/tdm.jpg" alt=""/>
@@ -55,7 +55,7 @@ description: 교내 물건 경매∙공유 시스템
  * 요구사항을 토대로 외래키 관계 지정 후, 외래키 관계에서 삽입, 삭제, 수정시의 업무규칙을 정의.
  * 도메인 정의 및 용어사전 정의를 토대로 속성의 이름 및 도메인 설정
  * 각 시스템의 기능의 단위별로 구성도 제작<br/>
-<a href="/asset/pdf/데이터베이스설계_ERD.pdf" target="_blank">E-R 다이어그램 설계서</a>
+<a href="/assets/pdf/데이터베이스설계_ERD.pdf" target="_blank">E-R 다이어그램 설계서</a>
 
  <figure>
     <img src="/assets/img/mainUI.jpg" alt=""/>
@@ -71,7 +71,7 @@ description: 교내 물건 경매∙공유 시스템
 6. 최근에 등록된 순으로 대여물품이 표시된다.
 7. 아이디와 비밀번호를 입력하고 로그인을 하거나 회원등록이 되어있지 않을 경우 회원가입버튼을 클릭해 회원가입을 할 수 있다.
 
-또 다른 UI 설계는 <a href="/asset/pdf/데이터베이스설계_UI설계.pdf" target="_blank">UI 설계서</a> 를 참조 해주세요.
+또 다른 UI 설계는 <a href="/assets/pdf/데이터베이스설계_UI설계.pdf" target="_blank">UI 설계서</a> 를 참조 해주세요.
 
 
 <br/>
