@@ -88,34 +88,49 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 <br/>
 
 #### 개발결과 
+
 ##### Web 
 
 <table>
     <tr>
         <td>
             <figure>
-                <img src="/assets/img/watinglist.jpg" alt=""/>
-                <figcaption>건강검진 관리 홈화면 (img)</figcaption>
+                <img src="/assets/img/memberMain.jpg" alt=""/>
+                <figcaption>회원 메인화면</figcaption>
             </figure>
         </td>
         <td>
             <figure>
-                <img src="/assets/img/list.jpg" alt=""/>
-                <figcaption>건강검진 리스트 안내 화면(회원), </figcaption>
+                <img src="/assets/img/memberList.jpg" alt=""/>
+                <figcaption>건강검진 안내 페이지 </figcaption>
             </figure>
         </td>
     </tr>
     <tr>
         <td>
             <figure>
-                <img src="/assets/img/watinglist.jpg" alt=""/>
-                <figcaption>건강검진 대기자화면</figcaption>
+                <img src="/assets/img/memberR.jpg" alt=""/>
+                <figcaption>회원 예약페이지</figcaption>
             </figure>
         </td>
         <td>
             <figure>
-                <img src="/assets/img/list.jpg" alt=""/>
-                <figcaption>건강검진 리스트 안내 화면</figcaption>
+                <img src="/assets/img/mypage.jpg" alt=""/>
+                <figcaption>마이페이지</figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <figure>
+                <img src="/assets/img/doctorNow.jpg" alt=""/>
+                <figcaption>의사 담당검사 대기 리스트</figcaption>
+            </figure>
+        </td>
+        <td>
+            <figure>
+                <img src="/assets/img/admin.jpg" alt=""/>
+                <figcaption>관리자 관리 페이지</figcaption>
             </figure>
         </td>
     </tr>
@@ -129,7 +144,7 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
     <tr>
         <td>
             <figure>
-                <img src="/assets/img/watinglist.jpg" alt=""/>
+                <img src="/assets/img/App1.jpg" alt=""/>
                 <figcaption>건강검진 관리 홈화면 (img)</figcaption>
             </figure>
         </td>
@@ -159,6 +174,7 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 어플에서는 현재 받아야 하는 검사에 대한 안내를 받는다. **검사 이름과 검사실의 위치, 예상 소요 시간** 등을 안내한다. 만약 핸드폰이 **비콘과 통신**을 할 경우, 사용자가 받으러 온 검사에 **대기 중인 사람의 수**를 보여주고 회원이 대기를 해야 하는 **대기 예상 시간**을 보여준다.
 
 <br/>
+
 ### 논문
 
 * 2018년도 한국컴퓨터정보학회 하계학술대회 구술발표 참여, 우수논문상 수상
