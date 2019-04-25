@@ -71,27 +71,39 @@ description: 대용량 DB를 이용한 클라이언트 개발
 
 #### 개발결과 
 <br/>
-###### Web 
 
 <table>
     <tr>
         <td>
             <figure>
-                <img src="/assets/img/년도.jpg" alt=""/>
+                <img src="/assets/img/년도-교수별 개설 교과목 수강 학생 학점 현황 테이블.jpg" alt=""/>
                 <figcaption>년도-교수 별 개설 교과목 수강학생 학점 현황</figcaption>
             </figure>
         </td>
         <td>
             <figure>
-                <img src="/assets/img/학과.jpg" alt=""/>
-                <figcaption>학과(학부)별 학생 성적 그래프 </figcaption>
+                <img src="/assets/img/년도별모든학생학점현황.jpg" alt=""/>
+                <figcaption>년도 별 모든 학생 학점 현황 </figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <figure>
+                <img src="/assets/img/입학년도 별 학생 성적 현황 그래프.jpg" alt=""/>
+                <figcaption>입학년도 별 학생 성적 현황 그래프</figcaption>
+            </figure>
+        </td>
+        <td>
+            <figure>
+                <img src="/assets/img/학과-학년별 학적 사항 테이블.jpg" alt=""/>
+                <figcaption>학과-학년별 학적 사항 테이블 </figcaption>
             </figure>
         </td>
     </tr>
 </table>
 
 <br/>
-
 
 <br/><br/>
 
