@@ -30,7 +30,7 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 
 #### 프로젝트 설계
 
-<table frame=void>
+<table frame="void">
     <tr>
         <td>
             <figure>
