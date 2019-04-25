@@ -28,7 +28,6 @@ description: 홀로그램을 활용한 헬스케어 서비스
 * Contents : Unity
 * DMBS : Firebase
 * server : Node.js
-
 <br/>
 
 #### 프로젝트 설계

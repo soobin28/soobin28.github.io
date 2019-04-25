@@ -120,7 +120,7 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 * 의사로 로그인하면 보이는 화면이다. 의사가 현재 담당중인 검자의 현재 대기자 리스트와 현재 검진을 받고 있는 검진자를 확인 할 수 있다. 현재 검진자의 검진이 다 끝난후 우측의 버튼을 누르면 해당 검진자의 이름이 대기자의 리스트에서 지워진다. 그 후, 지워진 검진자의 바로 아래에 있는 검진자가 현재 검진자로 바뀐다.
 
 <figure>
-    <img src="/assets/img/admin.jpg" alt=""/>
+    <img src="/assets/img/adminCRUD.jpg" alt=""/>
     <figcaption>관리자 관리 페이지</figcaption>
 </figure>
 
