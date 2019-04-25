@@ -30,7 +30,7 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 
 #### 프로젝트 설계
 
-<table>
+<table frame=void>
     <tr>
         <td>
             <figure>
@@ -38,6 +38,8 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
                 <figcaption>시스템 모듈 구성도</figcaption>
             </figure>
         </td>
+    </tr>
+    <tr>
         <td>
             각 클라이언트와 서버에는 여러 모듈이 존재하며, 클라이언트-서버 간 연결을 위한 모듈과 요청과 응답이 발생할 때마다 데이터 처리가 모듈에 의해 이루어진다.
         </td>
@@ -49,6 +51,8 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
                 <figcaption>시스템 개념도</figcaption>
             </figure>
         </td>
+    </tr>
+    <tr>
         <td>
             본 프로젝트에서는 검사를 받으러 온 사용자들을 비콘을 통해 자동으로 검사 접수를 해 주는 시스템을 설계하고 구현한다.
         </td>
@@ -60,6 +64,8 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
                 <figcaption>클래스다이어그램</figcaption>
             </figure>
         </td>
+    </tr>
+    <tr>
         <td>
             클래스 다이어그램은 회원 클래스, 관리자 클래스, 의사 클래스, 건강검진 어플 클래스로 구성된다. 
         </td>
@@ -71,6 +77,8 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
                 <figcaption>E-R 다이어그램</figcaption>
             </figure>
         </td>
+    </tr>
+    <tr>
         <td>
             데이터베이스는 총 8개의 테이블로 구성된다.
         </td>
