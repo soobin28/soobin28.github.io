@@ -114,10 +114,7 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
             </figure>
         </td>
         <td>
-            <figure>
-                <img src="/assets/img/mypage.jpg" alt=""/>
-                <figcaption>마이페이지</figcaption>
-            </figure>
+            XXXXX
         </td>
     </tr>
     <tr>
