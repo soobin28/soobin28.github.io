@@ -91,82 +91,48 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 
 ##### Web 
 
-<table>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/memberMain.jpg" alt=""/>
-                <figcaption>회원 메인화면</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/memberList.jpg" alt=""/>
-                <figcaption>건강검진 안내 페이지 </figcaption>
-            </figure>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/memberR.jpg" alt=""/>
-                <figcaption>회원 예약페이지</figcaption>
-            </figure>
-        </td>
-        <td>
-            XXXXX
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/doctorNow.jpg" alt=""/>
-                <figcaption>의사 담당검사 대기 리스트</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/admin.jpg" alt=""/>
-                <figcaption>관리자 관리 페이지</figcaption>
-            </figure>
-        </td>
-    </tr>
-</table>
+<figure>
+    <img src="/assets/img/memberMain.jpg" alt=""/>
+    <figcaption>회원 메인화면</figcaption>
+</figure>
 
-웹페이지에서는 **각 사용자별로 안내**를 해준다. **회원**에게는 건강검진에 대한 정보와 예약을 할 수 있는 페이지를 제공한다. **의사**로 로그인을 할 경우에는 본인이 담당하고있는 검사들의 내용을 보여주고, 현재 진행중인 검사에 대한 대기자 리스트와 검사완료 처리를 할 수 있는 기능이 제공된다. **관리자**에게는 회원과 의사에게 보여지는 내용에 대한 것들을 관리한다. 
+* 회원으로 로그인 했을 때 보이는 화면이다.
+
+ <figure>
+    <img src="/assets/img/memberList.jpg" alt=""/>
+    <figcaption>건강검진 안내 페이지 </figcaption>
+</figure>
+
+* 회원으로 로그인하여 좌측 메뉴바의 건강검진 리스트를 눌렀을 때 보이는 화면이다. 건강검진에 대한 정보를 얻을 수 있고, 건강검진예약을 할 수 있다.
+
+<figure>
+    <img src="/assets/img/memberR.jpg" alt=""/>
+    <figcaption>회원 예약페이지</figcaption>
+</figure>
+
+* 회원이 예약한 건강검진 정보를 확인 할 수 있다.
+
+<figure>
+    <img src="/assets/img/doctorNow.jpg" alt=""/>
+    <figcaption>의사 담당검사 대기 리스트</figcaption>
+</figure>
+
+* 의사로 로그인하면 보이는 화면이다. 의사가 현재 담당중인 검자의 현재 대기자 리스트와 현재 검진을 받고 있는 검진자를 확인 할 수 있다. 현재 검진자의 검진이 다 끝난후 우측의 버튼을 누르면 해당 검진자의 이름이 대기자의 리스트에서 지워진다. 그 후, 지워진 검진자의 바로 아래에 있는 검진자가 현재 검진자로 바뀐다.
+
+<figure>
+    <img src="/assets/img/admin.jpg" alt=""/>
+    <figcaption>관리자 관리 페이지</figcaption>
+</figure>
+
+* 관리자로 로그인을 하면 볼 수 있는 화면이다. 회원이 볼 수 있는 건강검진의 리스트를 생성, 수정, 삭제할 수 있다. 의사에 대한 담당 검사를 지정할 수 있다.
+
 
 ##### App
 
-<table>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/App1.jpg" alt=""/>
-                <figcaption>건강검진 관리 홈화면 (img)</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/list.jpg" alt=""/>
-                <figcaption>건강검진 리스트 안내 화면(회원), </figcaption>
-            </figure>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure>
-                <img src="/assets/img/watinglist.jpg" alt=""/>
-                <figcaption>건강검진 대기자화면</figcaption>
-            </figure>
-        </td>
-        <td>
-            <figure>
-                <img src="/assets/img/list.jpg" alt=""/>
-                <figcaption>건강검진 리스트 안내 화면</figcaption>
-            </figure>
-        </td>
-    </tr>
-</table>
+<figure>
+    <img src="/assets/img/App1.jpg" alt=""/>
+    <figcaption>검진실의 비콘과 연결 전 화면과 연결 후 화면</figcaption>
+</figure>
 
 어플에서는 현재 받아야 하는 검사에 대한 안내를 받는다. **검사 이름과 검사실의 위치, 예상 소요 시간** 등을 안내한다. 만약 핸드폰이 **비콘과 통신**을 할 경우, 사용자가 받으러 온 검사에 **대기 중인 사람의 수**를 보여주고 회원이 대기를 해야 하는 **대기 예상 시간**을 보여준다.
 
