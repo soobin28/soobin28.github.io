@@ -141,11 +141,8 @@ description: 비콘을 이용한 건강검진 관리 시스템의 설계와 개�
 ### 논문
 
 * 2018년도 한국컴퓨터정보학회 하계학술대회 구술발표 참여, 우수논문상 수상
-
- <figure>
-    <img src="/assets/img/ksci.jpg" alt=""/>
-    <figcaption>KSCI 우수논문상</figcaption>
-</figure> 
+<br/>
+<a href="/assets/pdf/ksci.pdf" target="_blank">우수논문상 보기</a>
 
 <br/><br/><br/>
 
