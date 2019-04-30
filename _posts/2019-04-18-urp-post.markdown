@@ -86,7 +86,7 @@ description: 홀로그램을 활용한 헬스케어 서비스
 
 <figure>
     <img src="/assets/img/excel.jpg" alt=""/>
-    <figcaption>excel 파일 -> Firebase DB 웹을 통한 삽입</figcaption>
+    <figcaption><br/>excel 파일 -> Firebase DB 웹을 통한 삽입</figcaption>
 </figure>
 
 * 사용자가 체성분분석 후 저장된 엑셀 형식의 파일을 json으로 변환 후 DB로 보내야하는 불편함을 해소하기 위해, NodeJS를 통해서 엑셀파일을 지정하면 Firebase DB에 엑셀파일이 사진과 같이 삽입할 수 있도록 별도의 프로그램을 구현함.
