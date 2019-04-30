@@ -46,6 +46,15 @@ description: 1996.12.28, 부산, 동서대학교, 컴퓨터공학부, 웹 개발
 
 * 비콘을 활용한 건강검진 안내 시스템의 구현 
 
+## 성적
+
+* 2018 TOPCIT 시험 응시
+
+<figure>
+    <img src="/assets/img/TOPCIT성적증명서.jpg" alt=""/>
+     <figcaption>TOPCIT 성적증명서</figcaption>
+</figure>
+
 ## 외부 공모전 수상이력
 
 * 2017제 5회 대학생 디지털 솔루션 챌린지, 장려상 수상
